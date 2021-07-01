@@ -1,0 +1,58 @@
+body {
+    font-family: 'roboto';
+    font-size: 12px;
+    margin: 0px;
+}
+
+header{
+    background-color: #EAC926;
+
+}
+nav a{
+    text-decoration: none;
+    color: black
+}
+nav ul{
+    list-style-type: none;
+}
+.centrado{
+    text-align: center;
+}
+
+#menuButton{
+    text-align: center;
+    background-color: #073dae;
+    font-size: 50px;
+    color: white;
+    padding: 5px;
+}
+
+h1,h2,h3{
+    font-size: 24px;
+    text-align: center;
+}
+
+.precios{
+    font-size: 18px;
+}
+
+.descuentos{
+    font-size: 16px;
+}
+
+.descripciones{
+    font-size: 16px;
+}
+
+.iconofooter{
+    color: blue;
+    background-color: white;
+    text-align: center;
+    font-size: 30px;
+   padding-bottom: 01px;
+   padding-top: 30px;
+}
+
+.titulofooter{
+    padding-top:0px
+}
